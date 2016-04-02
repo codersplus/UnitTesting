@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\obj\Debug\SB.Calculator.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\SB.Calculator.UnitTests.dll
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\SB.Calculator.UnitTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\nunit.framework.dll
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\SB.Calculator.dll
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\SB.Calculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\nunit.framework.xml
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\obj\Debug\SB.Calculator.UnitTests.dll
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\obj\Debug\SB.Calculator.UnitTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\NSubstitute.dll
+c:\users\user\documents\visual studio 2015\Projects\UnitTesting\SB.Calculator.UnitTests\bin\Debug\NSubstitute.xml
